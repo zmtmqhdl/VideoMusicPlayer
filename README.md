@@ -7,16 +7,16 @@
 
 <br>
 
+## 🗓️ 개발 기간
+2024.12 ~ 2025.01
+
+<br>
+
 ## 🧑‍💻 참여 인원
 |  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  |
 |:---:|
 | 김태훈 |
 | Android|
-
-<br>
-
-## 🗓️ 개발 기간
-2024.12 ~ 2025.01
 
 <br>
 
