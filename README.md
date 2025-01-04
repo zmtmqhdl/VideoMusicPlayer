@@ -24,7 +24,7 @@
 APP을 실행하면 APP에 내장되어 있는 홍보 동영상이 APP이 종료될 때까지 음소거 상태로 무한 반복 재생됩니다. 좌측 상단에 있는 음악 아이콘을 눌러 Youtube APP으로 전환할 수 있으며, Youtube에서 동영상을 선택하면 마지막 터치를 기준으로 90초 후 Youtube가 최소화되어 다시 홍보 동영상이 재생됩니다. 이 때, Youtube 유료 결제를 진행했다면 백그라운드에서 Youtube에서 선택한 동영상의 소리가 재생됩니다.  
 
   (1)동영상 재생 화면  
-  <img src="https://github.com/user-attachments/assets/bf86e132-ba03-44cd-9f36-22d2e4e9196f" width="25%">  
+  <img src="https://github.com/user-attachments/assets/bf86e132-ba03-44cd-9f36-22d2e4e9196f" width="20%">  
   좌측 상단의 음악 버튼을 누르면 Youtube가 실행되고, Youtube에서 마지막 터치 기준으로 90초 이후 다시 원래 APP으로 돌아와 동영상이 재생됩니다.
 
 <br>
